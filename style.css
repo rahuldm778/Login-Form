@@ -1,0 +1,12 @@
+.frame {
+    margin-top: 150px;
+    background-color: rgb(113, 189, 240);
+}
+img {
+    border-radius: 50%;
+    margin-left: 140px;
+    margin-right: auto;
+}
+#inputEmail {
+    margin-bottom: 10px;
+}
